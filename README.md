@@ -45,8 +45,3 @@ This dataset contains 87,000 RGB images of healthy and diseased crop leaves cate
 	36 : 'Tomato mosaic virus',
 	37 : 'Tomato healthy'
 
-## preview
-
-
-
- GUIs.
